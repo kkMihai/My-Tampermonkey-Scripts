@@ -21,4 +21,4 @@ Welcome to the repository containing my collection of Tampermonkey scripts. Belo
 4. Enjoy an enhanced browsing experience!
 ```
 
-Feel free to contribute, open issues, or provide feedback. Happy scripting!
+Feel free to contribute, open issues, or provide feedback. Happy doing stuff ig
