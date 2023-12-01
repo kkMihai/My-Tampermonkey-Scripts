@@ -2,13 +2,6 @@
 
 Welcome to the repository containing my collection of Tampermonkey scripts. Below, you'll find a list of scripts that enhance your web experience.
 
-```css
-/* Add a background color to the entire scripts section */
-background-color: #f0f0f0;
-padding: 15px;
-border-radius: 5px;
-```
-
 ## Scripts
 
 ### 1. [IconScout Premium SVG Free](https://greasyfork.org/en/scripts/478627-iconscout-premium-svg-free)
